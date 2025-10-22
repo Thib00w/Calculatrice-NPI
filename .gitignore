@@ -1,0 +1,29 @@
+# Environnements virtuels
+venv/
+env/
+ENV/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Fichiers logs
+*.log
+
+# Dossiers et fichiers spécifiques à l'éditeur
+.vscode/
+.idea/
+
+# Fichiers temporaires
+*.tmp
+*.temp
+
+# Fichiers de configuration locale
+*.env
+
+# MacOS (si tu es sur Mac)
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
